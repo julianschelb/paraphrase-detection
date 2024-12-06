@@ -1,1 +1,1 @@
-# paraphrase-detection
+# Paraphrase Detection
